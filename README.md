@@ -18,3 +18,4 @@ Python, FastAPI, PostgreSQL, Whisper, Claude API, Streamlit, Docker
 
 ## Status
 Day 1 of 30. Building in public.
+Day 2 of 30. Building in public.
