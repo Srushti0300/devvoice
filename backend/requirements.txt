@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-python-dotenv
-pytest
-httpx
-faster-whisper
-python-multipart
